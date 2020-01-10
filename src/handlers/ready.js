@@ -11,7 +11,7 @@ module.exports = client => {
 
     const embed = new AuditLogEmbedBuilder()
       .setColor('blurpleColor')
-      .setFooter('Made with ❤ by peterthehan');
+      .setFooter('Made with ❤ by ⏺️NAME BOY⏺️');
 
     send(guild, embed);
   }
