@@ -21,9 +21,9 @@ module.exports = {
   deleteTimeThreshold: 1,
   editTimeThreshold: 0,
   guildChannelMap: {
-    '635051074809626657': {
-      logChannelId: '651975776509624350',
-      ignoreChannelIds: ['649020657522180128']
+    'Your guild id': {
+      logChannelId: 'Your Log Channel Id',
+      ignoreChannelIds: ['Your ignore channel Id']
     }
   }
 };
